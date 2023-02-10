@@ -1,4 +1,4 @@
-# Spotlight Extension For Quarto `revealjs` format
+# Spotlight Extension For Quarto `revealjs` Format
 
 A plugin for [Reveal.js](https://github.com/hakimel/reveal.js) allowing to highlight the current mouse position with a spotlight.
 
