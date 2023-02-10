@@ -49,4 +49,4 @@ View an example presentation at <https://m.canouil.fr/quarto-spotlight>.
 
 ---
 
-[Spotlight - Reveal.js Plugin](https://github.com/denniskniep/reveal.js-plugin-spotlight) by Dennis Kniep under MIT License.
+[Spotlight - Reveal.js Plugin](https://github.com/denniskniep/reveal.js-plugin-spotlight) by Dennis Kniep under Apache License 2.0.
