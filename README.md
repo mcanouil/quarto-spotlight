@@ -5,7 +5,7 @@ A plugin for [Reveal.js](https://github.com/hakimel/reveal.js) allowing to highl
 ## Installing
 
 ```bash
-quarto install extension mcanouil/quarto-spotlight
+quarto add mcanouil/quarto-spotlight
 ```
 
 This will install the extension under the `_extensions` subdirectory.
