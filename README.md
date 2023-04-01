@@ -45,7 +45,7 @@ You can control the appearance of the pointer by passing some additional options
 ## Example
 
 Here is the source code for a minimal example: [example.qmd](example.qmd).  
-View an example presentation at <https://m.canouil.fr/quarto-spotlight>.
+View an example presentation at <https://m.canouil.dev/quarto-spotlight>.
 
 ---
 
