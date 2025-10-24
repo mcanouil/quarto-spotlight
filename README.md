@@ -2,13 +2,14 @@
 
 A plugin for [Reveal.js](https://github.com/hakimel/reveal.js) allowing to highlight the current mouse position with a spotlight.
 
-## Installing
+## Installation
 
 ```bash
 quarto add mcanouil/quarto-spotlight
 ```
 
 This will install the extension under the `_extensions` subdirectory.
+
 If you're using version control, you will want to check in this directory.
 
 ## Usage
@@ -44,8 +45,11 @@ You can control the appearance of the pointer by passing some additional options
 
 ## Example
 
-Here is the source code for a minimal example: [example.qmd](example.qmd).  
-View an example presentation at <https://m.canouil.dev/quarto-spotlight>.
+Here is the source code for a minimal example: [example.qmd](example.qmd).
+
+Output of `example.qmd`:
+
+- [HTML](https://m.canouil.dev/quarto-spotlight/)
 
 ---
 
