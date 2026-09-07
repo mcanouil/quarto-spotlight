@@ -20,9 +20,15 @@ website:
   title: "RevealJS Spotlight"
   description: "A RevealJS plugin that dims the slide around the pointer, so an audience follows what the speaker is pointing at."
   # No trailing slash: Quarto builds the social image URL by concatenating this
-  # with a leading-slash image path, without normalising.
+  # with the image path, without normalising.
   site-url: &site-url https://m.canouil.dev/quarto-revealjs-spotlight
   repo-url: https://github.com/mcanouil/quarto-revealjs-spotlight
+  open-graph:
+    image: assets/social/og-image.png
+    image-alt: "The quarto-revealjs-spotlight social card: the extension name and the \"extension\" badge over the line \"Highlight your mouse position with a spotlight effect\", beside a dark code window showing slides.qmd."
+  twitter-card:
+    image: assets/social/og-image.png
+    image-alt: "The quarto-revealjs-spotlight social card: the extension name and the \"extension\" badge over the line \"Highlight your mouse position with a spotlight effect\", beside a dark code window showing slides.qmd."
   # The Quarto project root is docs/, so without this the "Edit this page" links
   # point at the repository root and 404.
   repo-subdir: docs
